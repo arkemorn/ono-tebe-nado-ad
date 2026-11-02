@@ -7,7 +7,7 @@
 body {
   min-width: 1100px;
   margin: 0;
-  font-family: Raleway, sans-serif;
+  font-family: Raleway;
 }
 
 h1,
@@ -27,3 +27,4 @@ img {
   display: block;
   max-width: 100%;
 }
+
