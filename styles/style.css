@@ -18,7 +18,6 @@ main {
 .header__links-list {
   display: flex;
   gap: 32px;
-  padding-left: 25px;
 }
 
 .header__links-list-item {
@@ -119,8 +118,8 @@ main {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  gap: 78px;
-  padding-top: 136px;
+  gap: 110px;
+  padding-top: 110px;
 }
 
 .cover__description-text {
@@ -142,7 +141,7 @@ main {
 }
 
 .lots {
-  padding: 0 50px;
+  padding: 0 24px;
 }
 
 .lots__heading {
@@ -230,9 +229,9 @@ main {
 
 .about {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: calc((100% - 50px) / 3) 1fr;
   gap: 25px;
-  padding: 0 50px;
+  padding: 0 24px;
 }
 
 .about__column {
