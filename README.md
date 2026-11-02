@@ -27,4 +27,4 @@
 
 ## Ссылка репозитория
 
-https://github.com/akremorn/ono-tebe-nado-ad
+https://github.com/akremorn/ono-tebe-nado-fd
